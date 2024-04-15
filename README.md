@@ -24,5 +24,5 @@ Student @ Manakula Vinayagar Institute of Technology
 [![Leetcode Stats](https://leetcode-stats-six.vercel.app/?username=sanjai_leetcode)](https://leetcode.com/sanjai_leetcode)
 
 
-[![geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<sanjaisoct2dq>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<sanjaisoct2dq>)](https://www.geeksforgeeks.org/user/sanjaisoct2dq/)
 
