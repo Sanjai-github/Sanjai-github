@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me SANJAI
 
 Student @ Manakula Vinayagar Institute of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">             
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)">             
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
